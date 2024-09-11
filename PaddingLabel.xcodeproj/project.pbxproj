@@ -77,7 +77,8 @@
 				33106BAB2197CE6C006D10E8 /* PaddingLabel.swift */,
 				33106B952197CE1D006D10E8 /* Info.plist */,
 			);
-			path = PaddingLabel;
+			name = PaddingLabel;
+			path = Sources/PaddingLabel;
 			sourceTree = "<group>";
 		};
 		33106B9E2197CE1D006D10E8 /* PaddingLabelTests */ = {
